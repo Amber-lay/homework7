@@ -61,7 +61,6 @@
 	       <span class="titleColor">学院概况</span>
 		   <p>
 		    网络传播学院
-		    </span>
 		</div>
     </div>
 
@@ -69,7 +68,7 @@
    <div class="row" id="row2"></div>
    <div class="row" id="row3"></div>
 	 </div>
-   </div>
+  
 </body>
 	
     
